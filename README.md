@@ -1,16 +1,23 @@
-## Hi there 👋
+```
+xxxx                                     xxxx  
+ x  xxxxx                              xxx  x  
+ x       xxxx                       x x     x  
+  x         xxxx          xxxx x xx         x  
+  x            xxxxxxxxxxxx    x           x   
+   x                                      xx   
+   xxx                                    x    
+  xxx                                     xx   
+ xx           xxx              xxx x        xx 
+ x            xxxxx            xxxxx         x 
+ x            xx xx             xx            x
+ x                     x                      x
+ x                     xx                    xx
+ x          x         xxx         xx         x 
+ xx         xxx     xxx  xxx    xxx         xx 
+  xx          xxxxxxx      xxxxxx          xx  
+   xx                                     xx   
+    xx                                 xxx     
+      xxxx                     xxxxxx x        
+          xxxxxxxxxxxxxxxxxxxxxx               
 
-<!--
-**jasminlei/jasminlei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
